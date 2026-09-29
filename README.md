@@ -115,20 +115,6 @@ Future improvements could include:
 - Engineering documentation
 - Teamwork and project presentation
 
-## Project Files
-
-This repository can include:
-
-- `Final Report - Temperature Controlled Fan System.pdf`
-- `Final Presentation - Temperature Controlled Fan System.pdf`
-
-If the original Arduino source file is available, add it to a `code/` folder:
-
-```text
-code/
-└── temperature_controlled_fan.ino
-```
-
 ## Team
 
 - Tsukasa Takahashi
